@@ -1,8 +1,4 @@
-# Git-Docker-Hands
-
-Docker演習の時間になったら。。
-
-まず、docker-composeをダウンロード
+# まず、docker-composeをダウンロード
 
 ◆Mac
 
